@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Allow: /_next/
+Allow: /static/
+Disallow: /api/
+
+Host: https://toolfocus.in
+Sitemap: https://toolfocus.in/sitemap.xml

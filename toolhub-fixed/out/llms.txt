@@ -1,0 +1,39 @@
+# ToolFocus — Free Developer & Productivity Tools
+> https://toolfocus.app
+
+ToolFocus provides free, browser-based tools for developers, writers, and SEO professionals. All tools run entirely client-side — no data ever leaves your device, no account required.
+
+## Tools Available
+
+- **JSON Formatter** — Format, validate, and minify JSON data instantly
+- **Password Generator** — Create strong, secure passwords with custom rules
+- **Word Counter** — Count words, characters, sentences, and reading time
+- **Base64 Encoder/Decoder** — Encode and decode Base64 strings
+- **URL Encoder/Decoder** — Encode and decode URL components
+- **Meta Tag Generator** — Generate SEO and Open Graph meta tags
+- **Case Converter** — Convert text between camelCase, snake_case, PascalCase, and more
+- **Markdown Editor** — Live preview markdown with export options
+- **CSS Minifier** — Minify and beautify CSS code
+- **HTML Minifier** — Compress HTML for production
+- **Color Picker** — Pick colors and convert between HEX, RGB, and HSL
+- **QR Code Generator** — Generate QR codes from any URL or text
+- **JWT Decoder** — Decode and inspect JSON Web Tokens
+- **Regex Tester** — Test and debug regular expressions in real-time
+- And 20+ more free tools
+
+## Blog & Guides
+
+In-depth guides on developer tools, SEO, and web development best practices.
+
+## About
+
+Owned and operated by Breakout Trade. Contact: breakouttradeapp@gmail.com
+
+## Key Pages
+
+- Homepage: https://toolfocus.app
+- Blog: https://toolfocus.app/blog
+- About: https://toolfocus.app/about
+- Contact: https://toolfocus.app/contact
+- Privacy Policy: https://toolfocus.app/privacy
+- Terms of Service: https://toolfocus.app/terms
