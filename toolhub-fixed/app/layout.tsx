@@ -6,7 +6,7 @@ import Footer from '@/components/Footer'
 import CookieConsent from '@/components/CookieConsent'
 
 // ─── Replace with your real AdSense publisher ID after approval ───────────
-const PUBLISHER_ID = 'ca-pub-XXXXXXXXXX'
+const PUBLISHER_ID = 'ca-pub-1607968585289432'
 // ─────────────────────────────────────────────────────────────────────────
 
 export const metadata: Metadata = {
@@ -55,7 +55,6 @@ export const metadata: Metadata = {
 
   robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
 
-  // ✅ FIXED: Proper Google verification (IMPORTANT)
   verification: {
     google: 'w3SWTovaVL930ay54XX_q8tDdqsQV5uHr_MHaOKGJkA',
   },
@@ -96,8 +95,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <head>
 
-        {/* ✅ Google Search Console Verification (kept as backup) */}
+        {/* ✅ Google Search Console Verification */}
         <meta name="google-site-verification" content="w3SWTovaVL930ay54XX_q8tDdqsQV5uHr_MHaOKGJkA" />
+
+        {/* ✅ AdSense Verification Script (CRITICAL FIX) */}
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${PUBLISHER_ID}`}
+          crossOrigin="anonymous"
+        ></script>
 
         {/* Structured Data */}
         <Script
@@ -115,8 +121,11 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 
         <link rel="ai-content-policy" href="https://toolfocus.in/llms.txt" />
 
-        {/* <meta name="google-adsense-account" content={PUBLISHER_ID} /> */}
+        {/* Optional AdSense meta */}
+        <meta name="google-adsense-account" content={PUBLISHER_ID} />
+
       </head>
+
       <body className="flex flex-col min-h-screen">
 
         <a
@@ -126,19 +135,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           Skip to main content
         </a>
 
-        {/* <Script
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${PUBLISHER_ID}`}
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        /> */}
-
         <Header />
         <main id="main-content" className="flex-1">
           {children}
         </main>
         <Footer />
         <CookieConsent />
+
       </body>
     </html>
   )
