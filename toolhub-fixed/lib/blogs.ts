@@ -15,14 +15,14 @@ export interface Blog {
 export const BLOGS: Blog[] = [
   {
     id: 'what-is-json-formatter',
-    title: 'What is a JSON Formatter? Complete Guide for Developers (2024)',
+    title: 'What is a JSON Formatter? Complete Guide for Developers (2026)',
     description:
       'Learn what JSON is, why formatting matters, and how a free online JSON formatter boosts developer productivity — with examples, tips, and FAQs.',
     relatedTool: 'json-formatter',
     category: 'Developer',
     color: 'teal',
     readTime: 7,
-    publishDate: '2024-11-01',
+    publishDate: '2026-11-01',
     tags: ['json', 'developer', 'formatting', 'api'],
     relatedBlogs: ['how-to-format-json', 'what-is-base64', 'csv-json-conversion'],
     content: `JSON (JavaScript Object Notation) is the de facto data interchange format of the modern web. From REST APIs to configuration files, JSON is everywhere — and keeping it readable is essential for developer productivity. Whether you are a beginner just learning about APIs or a senior engineer debugging a production issue, a **JSON formatter** is a tool you will reach for every single day.
@@ -139,14 +139,14 @@ A JSON formatter is one of the most-used tools in a developer's toolkit. Whether
 
   {
     id: 'how-to-format-json',
-    title: 'How to Format JSON: Best Practices for Clean, Readable Data (2024)',
+    title: 'How to Format JSON: Best Practices for Clean, Readable Data (2026)',
     description:
       'A complete guide to JSON formatting best practices — indentation, naming conventions, schema validation, and tools to keep your JSON clean across a team.',
     relatedTool: 'json-formatter',
     category: 'Developer',
     color: 'teal',
     readTime: 7,
-    publishDate: '2024-11-05',
+    publishDate: '2026-11-05',
     tags: ['json', 'best practices', 'formatting', 'developer'],
     relatedBlogs: ['what-is-json-formatter', 'csv-json-conversion', 'jwt-explained'],
     content: `Formatting JSON consistently and correctly is a fundamental skill for web developers. Clean JSON improves readability, reduces bugs, and makes collaboration far easier. This guide covers everything from indentation choices to naming conventions, schema validation, and tooling that keeps your JSON spotless across a team.
@@ -274,17 +274,17 @@ Good JSON formatting is a simple discipline with outsized rewards. It makes debu
 
   {
     id: 'password-security-guide',
-    title: 'The Complete Guide to Password Security in 2024: How to Stay Safe Online',
+    title: 'The Complete Guide to Password Security in 2026: How to Stay Safe Online',
     description:
       'Everything you need to know about creating strong passwords, using password managers, and protecting your accounts — with a free password generator.',
     relatedTool: 'password-generator',
     category: 'Security',
     color: 'coral',
     readTime: 8,
-    publishDate: '2024-11-08',
+    publishDate: '2026-11-08',
     tags: ['password', 'security', 'cybersecurity', 'online safety'],
     relatedBlogs: ['md5-sha256-difference', 'what-is-uuid', 'jwt-explained'],
-    content: `Password security is the first and most important line of defence against account compromise, identity theft, and data breaches. Despite decades of warnings, password reuse and weak passwords remain the most common causes of security incidents worldwide. This guide covers everything you need to know to protect yourself in 2024.
+    content: `Password security is the first and most important line of defence against account compromise, identity theft, and data breaches. Despite decades of warnings, password reuse and weak passwords remain the most common causes of security incidents worldwide. This guide covers everything you need to know to protect yourself in 2026.
 
 > **Quick tool:** Use our free [Password Generator](/tools/password-generator) to create cryptographically random, strong passwords instantly — right in your browser.
 
@@ -390,7 +390,7 @@ Password security is not glamorous, but it is foundational. A strong, unique pas
     category: 'Developer',
     color: 'emerald',
     readTime: 7,
-    publishDate: '2024-11-12',
+    publishDate: '2026-11-12',
     tags: ['base64', 'encoding', 'developer', 'web'],
     relatedBlogs: ['what-is-json-formatter', 'url-encoding-explained', 'jwt-explained'],
     content: `Base64 is one of those technologies that developers encounter constantly but rarely stop to understand deeply. You see it in image data URIs, JWT tokens, email attachments, and API authentication headers. This guide explains what Base64 encoding is, how it works, when to use it, and equally important — when not to.
@@ -502,7 +502,7 @@ Base64 is a fundamental encoding used throughout web development, networking, an
     category: 'Developer',
     color: 'amber',
     readTime: 7,
-    publishDate: '2024-11-15',
+    publishDate: '2026-11-15',
     tags: ['url', 'encoding', 'web', 'developer'],
     relatedBlogs: ['what-is-base64', 'what-is-json-formatter', 'slug-generator-guide'],
     content: `Every time you click a link, submit a form, or make an API request, URL encoding is working silently in the background. When you search for "cafe near me," the space and any accented characters get converted into percent-encoded sequences before the URL is sent to the server. Understanding URL encoding is essential for web developers, API designers, and anyone who works with web addresses.
@@ -615,14 +615,14 @@ URL encoding is a foundational web technology that prevents ambiguity and ensure
 
   {
     id: 'meta-tags-complete-guide',
-    title: 'Meta Tags Complete Guide: SEO, Social Sharing & Best Practices (2024)',
+    title: 'Meta Tags Complete Guide: SEO, Social Sharing & Best Practices (2026)',
     description:
       'Everything web developers and SEO professionals need to know about HTML meta tags — title tags, descriptions, Open Graph, Twitter Cards, and more.',
     relatedTool: 'meta-tag-generator',
     category: 'SEO',
     color: 'pink',
     readTime: 9,
-    publishDate: '2024-11-18',
+    publishDate: '2026-11-18',
     tags: ['meta tags', 'seo', 'html', 'open graph'],
     relatedBlogs: ['open-graph-guide', 'robots-txt-guide', 'keyword-density-seo'],
     content: `Meta tags are HTML elements that provide information about a web page to search engines, browsers, and social media platforms. Although they are invisible to users, they have an enormous impact on how pages appear in search results, how they look when shared on social media, and how browsers handle them. This guide covers every important meta tag you need to know.
@@ -775,14 +775,14 @@ Meta tags are one of the highest-leverage technical SEO investments you can make
 
   {
     id: 'slug-generator-guide',
-    title: 'URL Slugs: The Complete Guide for SEO-Friendly URLs in 2024',
+    title: 'URL Slugs: The Complete Guide for SEO-Friendly URLs in 2026',
     description:
       'Learn what URL slugs are, why they matter for SEO, how to create clean optimised slugs, and how to manage slug changes without losing rankings.',
     relatedTool: 'slug-generator',
     category: 'SEO',
     color: 'teal',
     readTime: 7,
-    publishDate: '2024-11-22',
+    publishDate: '2026-11-22',
     tags: ['slug', 'url', 'seo', 'permalinks'],
     relatedBlogs: ['meta-tags-complete-guide', 'url-encoding-explained', 'keyword-density-seo'],
     content: `A URL slug is the human-readable part of a web address that identifies a specific page. In the URL \`https://example.com/blog/how-to-make-coffee\`, the slug is \`how-to-make-coffee\`. It is short, descriptive, and instantly tells both users and search engines what the page is about. Creating clean, optimised slugs is one of the simplest and highest-impact SEO practices available to web publishers.
@@ -820,7 +820,7 @@ A well-crafted slug has these characteristics:
 
 **Avoids special characters and symbols**: Stick to alphanumeric characters and hyphens. Characters like \`&\`, \`%\`, \`?\`, and \`#\` break URL parsing or require percent-encoding. See our [URL encoding guide](/blog/url-encoding-explained) for details.
 
-**Does not include dates** (usually): Including the year in a slug like \`/2024/seo-guide\` can make the content feel dated and hurt long-term traffic to evergreen content.
+**Does not include dates** (usually): Including the year in a slug like \`/2026/seo-guide\` can make the content feel dated and hurt long-term traffic to evergreen content.
 
 ## How to Convert Titles to Slugs
 
@@ -902,7 +902,7 @@ A good URL slug is one of the simplest, most impactful SEO improvements you can 
     category: 'Developer',
     color: 'purple',
     readTime: 7,
-    publishDate: '2024-11-25',
+    publishDate: '2026-11-25',
     tags: ['uuid', 'identifier', 'developer', 'database'],
     relatedBlogs: ['what-is-json-formatter', 'password-security-guide', 'md5-sha256-difference'],
     content: `A UUID (Universally Unique Identifier) is a 128-bit identifier, typically displayed as a 32-character hexadecimal string in the format \`xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx\`. You have almost certainly encountered UUIDs in APIs, databases, file systems, and URLs. Understanding what they are, why they exist, and when to use them is essential knowledge for any software developer.
@@ -1019,17 +1019,17 @@ UUIDs are a fundamental tool for building robust, secure, and scalable systems. 
 
   {
     id: 'keyword-density-seo',
-    title: 'Keyword Density in SEO: What It Is and How to Use It Right in 2024',
+    title: 'Keyword Density in SEO: What It Is and How to Use It Right in 2026',
     description:
       'Everything you need to know about keyword density — what it is, whether it still matters for SEO, how to avoid stuffing, and how to write naturally optimised content.',
     relatedTool: 'keyword-density-checker',
     category: 'SEO',
     color: 'amber',
     readTime: 7,
-    publishDate: '2024-11-28',
+    publishDate: '2026-11-28',
     tags: ['keyword density', 'seo', 'content', 'on-page seo'],
     relatedBlogs: ['meta-tags-complete-guide', 'slug-generator-guide', 'open-graph-guide'],
-    content: `Keyword density is one of the oldest concepts in SEO — and one of the most misunderstood. In the early days of search engines, stuffing keywords into a page was a reliable way to rank for those terms. Today, the landscape is completely different. Here is what keyword density actually means in 2024, how modern search engines evaluate keyword usage, and how to write content that ranks without falling into outdated traps.
+    content: `Keyword density is one of the oldest concepts in SEO — and one of the most misunderstood. In the early days of search engines, stuffing keywords into a page was a reliable way to rank for those terms. Today, the landscape is completely different. Here is what keyword density actually means in 2026, how modern search engines evaluate keyword usage, and how to write content that ranks without falling into outdated traps.
 
 > **Check your content:** Use our free [Keyword Density Checker](/tools/keyword-density-checker) to audit any page and spot over-used or under-used keywords before you publish.
 
@@ -1108,7 +1108,7 @@ Our [Keyword Density Checker](/tools/keyword-density-checker) helps you:
 
 ## Frequently Asked Questions
 
-**Q: What is the ideal keyword density for SEO in 2024?**
+**Q: What is the ideal keyword density for SEO in 2026?**
 There is no ideal percentage. Google does not publish or enforce a keyword density requirement. A reasonable guideline is 1–2% for your primary keyword — but focus more on natural usage and semantic richness than hitting any specific number.
 
 **Q: Can too many keywords hurt my ranking?**
@@ -1134,7 +1134,7 @@ Keyword density as a precise metric is an outdated concept, but intelligent keyw
     category: 'Developer',
     color: 'emerald',
     readTime: 8,
-    publishDate: '2024-12-01',
+    publishDate: '2026-12-01',
     tags: ['csv', 'json', 'data conversion', 'developer'],
     relatedBlogs: ['what-is-json-formatter', 'how-to-format-json', 'sql-formatter-guide'],
     content: `CSV and JSON are the two most common data interchange formats in software development. CSV is ubiquitous in spreadsheets and data analysis; JSON is the native language of web APIs. Knowing how to convert between them quickly and accurately is a practical skill every developer needs. This guide covers the differences between the formats, conversion strategies, edge cases, and when to use each.
@@ -1285,14 +1285,14 @@ Understanding the structural differences between CSV and JSON — and the edge c
 
   {
     id: 'open-graph-guide',
-    title: 'Open Graph Protocol: The Complete Implementation Guide for 2024',
+    title: 'Open Graph Protocol: The Complete Implementation Guide for 2026',
     description:
       'A thorough guide to implementing Open Graph tags for perfect social media link previews on Facebook, LinkedIn, Twitter/X, and Slack — with code examples.',
     relatedTool: 'open-graph-generator',
     category: 'SEO',
     color: 'pink',
     readTime: 8,
-    publishDate: '2024-12-05',
+    publishDate: '2026-12-05',
     tags: ['open graph', 'social media', 'seo', 'html'],
     relatedBlogs: ['meta-tags-complete-guide', 'robots-txt-guide', 'slug-generator-guide'],
     content: `When someone shares your web page on Facebook, LinkedIn, Slack, or any major social platform, what they see is determined almost entirely by your Open Graph meta tags. A compelling, well-formatted link preview can double the click-through rate of a shared link. A missing or broken preview leaves a poor impression and loses potential traffic. This guide covers everything you need to implement Open Graph correctly.
@@ -1368,8 +1368,8 @@ For blog posts and news articles, use the \`article\` type and its associated ta
 
 \`\`\`html
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-12-05T09:00:00Z">
-<meta property="article:modified_time" content="2024-12-05T09:00:00Z">
+<meta property="article:published_time" content="2026-12-05T09:00:00Z">
+<meta property="article:modified_time" content="2026-12-05T09:00:00Z">
 <meta property="article:author" content="https://example.com/authors/jane-doe">
 <meta property="article:section" content="Technology">
 <meta property="article:tag" content="SEO">
@@ -1450,14 +1450,14 @@ Open Graph tags are one of the highest-leverage, lowest-effort SEO and marketing
 
   {
     id: 'robots-txt-guide',
-    title: 'Robots.txt: The Complete Guide for SEO and Web Developers (2024)',
+    title: 'Robots.txt: The Complete Guide for SEO and Web Developers (2026)',
     description:
       'A complete guide to robots.txt — how it works, how to write it correctly, common mistakes that tank rankings, and how to use it strategically for SEO.',
     relatedTool: 'robots-txt-generator',
     category: 'SEO',
     color: 'coral',
     readTime: 8,
-    publishDate: '2024-12-08',
+    publishDate: '2026-12-08',
     tags: ['robots.txt', 'seo', 'crawling', 'technical seo'],
     relatedBlogs: ['meta-tags-complete-guide', 'open-graph-guide', 'slug-generator-guide'],
     content: `The robots.txt file is one of the most misunderstood files in web development. It sits at the root of your domain, often barely 10 lines long, but it tells search engine crawlers how to navigate your site. Used correctly, it helps search engines focus their crawl budget on your most important pages. Misused, it can accidentally block your entire site from Google. This guide covers everything you need to know.
@@ -1584,14 +1584,14 @@ Robots.txt is simple but consequential. A few lines can direct search engine cra
 
   {
     id: 'jwt-explained',
-    title: 'JWT Explained: JSON Web Tokens for Beginners and Beyond (2024)',
+    title: 'JWT Explained: JSON Web Tokens for Beginners and Beyond (2026)',
     description:
       'A thorough explanation of JSON Web Tokens — how they work, their structure, signing algorithms, security vulnerabilities, and when to use them.',
     relatedTool: 'jwt-decoder',
     category: 'Security',
     color: 'coral',
     readTime: 9,
-    publishDate: '2024-12-12',
+    publishDate: '2026-12-12',
     tags: ['jwt', 'authentication', 'security', 'web'],
     relatedBlogs: ['password-security-guide', 'what-is-base64', 'md5-sha256-difference'],
     content: `JSON Web Tokens (JWTs) are everywhere in modern web authentication. Nearly every new application, API, and cloud service uses JWTs in some form. Understanding how they work — and more importantly, how they can go wrong — is essential for any developer building secure applications. This guide covers everything from the basics to security pitfalls.
@@ -1742,7 +1742,7 @@ JWTs are a powerful but nuanced authentication mechanism. Understanding the thre
     category: 'Security',
     color: 'purple',
     readTime: 7,
-    publishDate: '2024-12-15',
+    publishDate: '2026-12-15',
     tags: ['md5', 'sha256', 'hashing', 'cryptography', 'security'],
     relatedBlogs: ['password-security-guide', 'jwt-explained', 'what-is-base64'],
     content: `MD5 and SHA-256 are both cryptographic hash functions, but they serve very different purposes in modern applications. One is essentially retired for security purposes; the other remains one of the most widely used algorithms in the world. Understanding the difference — and knowing when to use neither — is fundamental security knowledge for every developer.
@@ -1865,14 +1865,14 @@ Use SHA-256 for file integrity, HMAC, digital signatures, and content addressing
 
   {
     id: 'hex-color-guide',
-    title: 'Hex Colors Explained: RGB, HSL, and Color Theory for Developers (2024)',
+    title: 'Hex Colors Explained: RGB, HSL, and Color Theory for Developers (2026)',
     description:
       'A developer-focused guide to colour in CSS — hex codes, RGB, HSL, OKLCH, accessibility contrast ratios, and practical design tips for building UIs.',
     relatedTool: 'hex-to-rgb',
     category: 'Developer',
     color: 'pink',
     readTime: 8,
-    publishDate: '2024-12-18',
+    publishDate: '2026-12-18',
     tags: ['color', 'hex', 'css', 'design', 'rgb'],
     relatedBlogs: ['css-gradient-tutorial', 'meta-tags-complete-guide', 'best-free-text-tools'],
     content: `Colour is one of the most powerful tools in a developer's design toolkit, but colour systems can be confusing. Hex codes, RGB, HSL, OKLCH — what is the difference, and when should you use each? This guide demystifies colour representation in CSS and gives you practical tools for choosing, converting, and applying colours effectively.
@@ -2026,7 +2026,7 @@ Understanding how hex, RGB, HSL, and OKLCH represent colour gives you precise co
     category: 'Text',
     color: 'amber',
     readTime: 6,
-    publishDate: '2024-12-20',
+    publishDate: '2026-12-20',
     tags: ['whitespace', 'text cleaning', 'spaces', 'formatting'],
     relatedBlogs: ['best-free-text-tools', 'what-is-json-formatter', 'slug-generator-guide'],
     content: `Extra spaces are one of the most common — and most overlooked — problems in text processing. They appear in content copied from PDFs, exported from databases, pasted from Word documents, and received from form submissions. They cause inconsistent formatting, break data processing logic, and make text look unprofessional. This guide covers why extra spaces appear, how to remove them, and how to prevent them in the first place.
@@ -2159,14 +2159,14 @@ Extra spaces are a pervasive problem in text processing, content management, and
 
   {
     id: 'best-free-text-tools',
-    title: '12 Best Free Online Text Tools Every Writer and Developer Needs in 2024',
+    title: '12 Best Free Online Text Tools Every Writer and Developer Needs in 2026',
     description:
       'A curated guide to the most useful free online text manipulation tools for writers, bloggers, developers, and SEO professionals — with real use cases.',
     relatedTool: 'word-counter',
     category: 'Text',
     color: 'teal',
     readTime: 8,
-    publishDate: '2024-12-22',
+    publishDate: '2026-12-22',
     tags: ['text tools', 'productivity', 'writing', 'developer'],
     relatedBlogs: ['remove-extra-spaces-guide', 'slug-generator-guide', 'keyword-density-seo'],
     content: `Whether you are a blogger polishing an article, a developer cleaning data, an SEO professional auditing content, or a student editing an essay, text manipulation tools can save significant time and improve output quality. This guide covers the most genuinely useful free online text tools — what they do and when you actually need them.
@@ -2287,14 +2287,14 @@ The right collection of text tools can cut repetitive text manipulation tasks fr
 
   {
     id: 'regex-for-beginners',
-    title: 'Regular Expressions for Beginners: A Practical Guide (2024)',
+    title: 'Regular Expressions for Beginners: A Practical Guide (2026)',
     description:
       'Learn regular expressions (regex) from scratch — core syntax, common patterns, practical examples, and how to test your patterns effectively without frustration.',
     relatedTool: 'regex-tester',
     category: 'Developer',
     color: 'purple',
     readTime: 9,
-    publishDate: '2024-12-25',
+    publishDate: '2026-12-25',
     tags: ['regex', 'regular expressions', 'developer', 'pattern matching'],
     relatedBlogs: ['what-is-json-formatter', 'url-encoding-explained', 'best-free-text-tools'],
     content: `Regular expressions (regex or regexp) are one of the most powerful tools in a programmer's toolkit — and one of the most feared. A well-crafted regex can validate an email address, parse a log file, or extract data from a string in a single, compact expression. This guide builds up regex knowledge from zero, with practical patterns you can use immediately.
@@ -2368,8 +2368,8 @@ Examples:
 Parentheses \`()\` create capturing groups:
 
 \`\`\`javascript
-const match = '2024-12-25'.match(/(\\d{4})-(\\d{2})-(\\d{2})/)
-// match[1] = '2024', match[2] = '12', match[3] = '25'
+const match = '2026-12-25'.match(/(\\d{4})-(\\d{2})-(\\d{2})/)
+// match[1] = '2026', match[2] = '12', match[3] = '25'
 \`\`\`
 
 Non-capturing groups \`(?:...)\` group without capturing.
@@ -2469,7 +2469,7 @@ Regular expressions reward investment in learning. Start with the core syntax �
     category: 'Developer',
     color: 'teal',
     readTime: 7,
-    publishDate: '2024-12-28',
+    publishDate: '2026-12-28',
     tags: ['sql', 'formatting', 'database', 'developer'],
     relatedBlogs: ['what-is-json-formatter', 'csv-json-conversion', 'how-to-format-json'],
     content: `SQL is one of the oldest programming languages still in widespread daily use, and readable SQL is an undervalued professional skill. Poorly formatted queries are difficult to understand, hard to debug, and painful to maintain. Well-formatted SQL reads almost like plain English — exactly as its designers intended. This guide covers the conventions and practices that make SQL a pleasure to read.
@@ -2625,14 +2625,14 @@ Readable SQL is a mark of professionalism. Clause-per-line structure, consistent
 
   {
     id: 'css-gradient-tutorial',
-    title: 'CSS Gradients: A Complete Guide to Linear, Radial, and Conic Gradients (2024)',
+    title: 'CSS Gradients: A Complete Guide to Linear, Radial, and Conic Gradients (2026)',
     description:
       'Master CSS gradients — linear, radial, conic, and repeating gradients — with practical examples, browser support notes, and design tips you can use today.',
     relatedTool: 'css-gradient',
     category: 'Developer',
     color: 'pink',
     readTime: 8,
-    publishDate: '2024-12-10',
+    publishDate: '2026-12-10',
     tags: ['css', 'gradients', 'design', 'frontend'],
     relatedBlogs: ['hex-color-guide', 'best-free-text-tools', 'meta-tags-complete-guide'],
     content: `CSS gradients are one of the most powerful visual tools available to frontend developers. They enable smooth transitions between colours without requiring a single image file, are infinitely customisable, scale perfectly at any resolution, and can be combined and layered in creative ways. This guide covers all four types of CSS gradients with practical examples and design guidance.

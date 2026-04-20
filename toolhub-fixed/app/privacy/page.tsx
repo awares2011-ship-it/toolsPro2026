@@ -4,7 +4,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Privacy Policy — ToolFocus',
   description: 'How ToolFocus collects, uses, and protects your information. All tools run in your browser — your data never leaves your device.',
-  alternates: { canonical: 'https://toolfocus.app/privacy' },
+  alternates: { canonical: 'https://toolfocus.in/privacy' },
 }
 
 const LAST_UPDATED = 'April 19, 2026'
@@ -13,7 +13,7 @@ const sections = [
   {
     id: 'overview',
     title: '1. Overview',
-    content: `ToolFocus ("we", "our", or "us"), owned and operated by Breakout Trade, operates toolfocus.app. This Privacy Policy explains what information we collect when you use our site, how we use it, and your rights regarding that information.\n\nBy using ToolFocus you agree to the practices described in this policy.`,
+    content: `ToolFocus ("we", "our", or "us"), owned and operated by Breakout Trade, operates toolfocus.in. This Privacy Policy explains what information we collect when you use our site, how we use it, and your rights regarding that information.\n\nBy using ToolFocus you agree to the practices described in this policy.`,
   },
   {
     id: 'tools-client-side',
@@ -63,7 +63,7 @@ const sections = [
   {
     id: 'contact',
     title: '11. Contact us',
-    content: `If you have questions or concerns about this Privacy Policy, please contact us:\n\nEmail: breakouttradeapp@gmail.com\nWebsite: toolfocus.app/contact
+    content: `If you have questions or concerns about this Privacy Policy, please contact us:\n\nEmail: breakouttradeapp@gmail.com\nWebsite: toolfocus.in/contact
 Owner: Breakout Trade`,
   },
 ]

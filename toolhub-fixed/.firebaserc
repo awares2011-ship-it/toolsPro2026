@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "toolspro2026"
-  }
+    "default": "toolspro2026",
+    "prod ": "toolspro2026"
+  },
+  "targets": {},
+  "etags": {}
 }

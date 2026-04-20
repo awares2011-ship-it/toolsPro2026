@@ -1,5 +1,5 @@
 # ToolFocus — Free Developer & Productivity Tools
-> https://toolfocus.app
+> https://toolfocus.in
 
 ToolFocus provides free, browser-based tools for developers, writers, and SEO professionals. All tools run entirely client-side — no data ever leaves your device, no account required.
 
@@ -31,9 +31,9 @@ Owned and operated by Breakout Trade. Contact: breakouttradeapp@gmail.com
 
 ## Key Pages
 
-- Homepage: https://toolfocus.app
-- Blog: https://toolfocus.app/blog
-- About: https://toolfocus.app/about
-- Contact: https://toolfocus.app/contact
-- Privacy Policy: https://toolfocus.app/privacy
-- Terms of Service: https://toolfocus.app/terms
+- Homepage: https://toolfocus.in
+- Blog: https://toolfocus.in/blog
+- About: https://toolfocus.in/about
+- Contact: https://toolfocus.in/contact
+- Privacy Policy: https://toolfocus.in/privacy
+- Terms of Service: https://toolfocus.in/terms

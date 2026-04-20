@@ -89,7 +89,7 @@ setStatus(res.ok ? 'success' : 'error')
 ```
 
 ### 4. Update your domain
-Replace all instances of `https://toolfocus.app` with your actual domain in:
+Replace all instances of `https://toolfocus.in` with your actual domain in:
 - `app/layout.tsx` (metadataBase)
 - `app/sitemap.ts`
 - `app/robots.ts`

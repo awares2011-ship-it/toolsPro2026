@@ -4,7 +4,7 @@ import Link from 'next/link'
 export const metadata: Metadata = {
   title: 'Terms of Service — ToolFocus',
   description: 'The terms and conditions for using ToolFocus free developer tools.',
-  alternates: { canonical: 'https://toolfocus.app/terms' },
+  alternates: { canonical: 'https://toolfocus.in/terms' },
 }
 
 const LAST_UPDATED = 'April 19, 2026'
@@ -13,7 +13,7 @@ const sections = [
   {
     id: 'acceptance',
     title: '1. Acceptance of terms',
-    content: `By accessing or using toolfocus.app ("ToolFocus", "the site", "the service"), you agree to be bound by these Terms of Service. If you do not agree, do not use the site.\n\nWe reserve the right to update these Terms at any time. Continued use of the site after changes constitutes acceptance.`,
+    content: `By accessing or using toolfocus.in ("ToolFocus", "the site", "the service"), you agree to be bound by these Terms of Service. If you do not agree, do not use the site.\n\nWe reserve the right to update these Terms at any time. Continued use of the site after changes constitutes acceptance.`,
   },
   {
     id: 'description',
@@ -58,7 +58,7 @@ const sections = [
   {
     id: 'contact',
     title: '10. Contact',
-    content: `For questions about these Terms:\n\nEmail: breakouttradeapp@gmail.com\nWebsite: toolfocus.app/contact`,
+    content: `For questions about these Terms:\n\nEmail: breakouttradeapp@gmail.com\nWebsite: toolfocus.in/contact`,
   },
 ]
 

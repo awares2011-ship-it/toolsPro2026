@@ -6,7 +6,7 @@ import { BLOGS } from '@/lib/blogs'
 export const metadata: Metadata = {
   title: 'About ToolFocus — Free Browser-Based Developer Tools',
   description: 'Learn about ToolFocus — a collection of free, instant, browser-based tools for developers, writers and SEO professionals. No signup, no tracking, no cost.',
-  alternates: { canonical: 'https://toolfocus.app/about' },
+  alternates: { canonical: 'https://toolfocus.in/about' },
 }
 
 const OWNER      = 'Breakout Trade'

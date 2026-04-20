@@ -2,7 +2,7 @@
 
 **Owner:** Breakout Trade  
 **Contact:** breakouttradeapp@gmail.com  
-**Site:** https://toolfocus.app
+**Site:** https://toolfocus.in
 
 ---
 
@@ -10,7 +10,7 @@
 
 AdSense does **not** approve `*.web.app` or any free subdomain.
 
-1. Buy a domain: `toolfocus.app`, `toolfocuspro.com`, or similar from Namecheap / GoDaddy / Cloudflare.
+1. Buy a domain: `toolfocus.in`, `toolfocuspro.com`, or similar from Namecheap / GoDaddy / Cloudflare.
 2. In Firebase Hosting console → **Add custom domain** → follow DNS instructions.
 3. Update `BASE` in `app/sitemap.ts` and all `canonical` URLs in each page to match your domain.
 

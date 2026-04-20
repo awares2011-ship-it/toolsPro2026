@@ -8,7 +8,7 @@ import AdBanner from '@/components/AdBanner'
 export const metadata: Metadata = {
   title: 'Blog & Guides — Developer Tools, SEO & Productivity',
   description: 'In-depth guides on JSON, passwords, SEO, URL encoding, and developer productivity. Free, practical articles with no fluff.',
-  alternates: { canonical: 'https://toolfocus.app/blog' },
+  alternates: { canonical: 'https://toolfocus.in/blog' },
 }
 
 const CATEGORIES = Array.from(new Set(BLOGS.map(b => b.category)))
